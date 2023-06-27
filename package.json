@@ -1,0 +1,23 @@
+{
+  "name": "pokemon-etl",
+  "version": "1.0.0",
+  "description": "Create an application which **Extracts** data from the [PokeAPI](https://pokeapi.co), **Transforms** the shape of the data to suit our needs, and **Loads** it into a Postgres database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poonam-raj/pokemon-ETL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poonam-raj/pokemon-ETL/issues"
+  },
+  "homepage": "https://github.com/Poonam-raj/pokemon-ETL#readme",
+  "dependencies": {
+    "pg": "^8.11.0"
+  }
+}
